@@ -1,2 +1,7 @@
+# python generated 
+__pycache__/
+
+# user generated
 email_list.csv
 secrets.txt
+emailtext.html
